@@ -1,0 +1,1 @@
+Added configuration directly from github by creating config.txt  
