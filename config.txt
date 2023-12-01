@@ -1,1 +1,2 @@
 Added configuration directly from github by creating config.txt  
+Added config from local main br 
